@@ -1,5 +1,7 @@
 # MeanCourse
 
+Building the project for the first time navigate to the root folder and run `npm install`
+
 Commands: 
 
 1) Server: navigate to root folder and run `node server.js` and Navigate to `http://localhost:3000/`
