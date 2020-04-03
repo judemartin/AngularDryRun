@@ -25,6 +25,7 @@
     "body-parser": "^1.19.0",
     "core-js": "^3.6.4",
     "express": "^4.17.1",
+    "mongoose": "^5.9.7",
     "npm-check-updates": "^4.1.1",
     "parsejson": "0.0.3",
     "rxjs": "^6.5.4",
