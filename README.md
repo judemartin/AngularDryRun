@@ -7,6 +7,9 @@ Commands:
 1) Server: navigate to root folder and run `node server.js` and Navigate to `http://localhost:3000/`
 2) Client: navigate to src/client and run `ng serve -o` and  Navigate to `http://localhost:4200/`
 
+Important Links:
+* Mongoose documentation: `https://mongoosejs.com/docs/index.html`
+* Atlas Mongo Cloud clusters: `https://cloud.mongodb.com/`
 
 
 
