@@ -38,8 +38,7 @@ constructor(public postsService: PostsService, public route: ActivatedRoute) {}
         this.postId = paramMap.get('postId');
         this.isLoading = true; 
         this.postsService.getPost(this.postId)
-        .subscribe(postData => {
-          console.log(postData);
+        .subscribe(postData => { 
           this.isLoading = false;
           this.post = { id: postData._id, 
             title: postData.title, 
