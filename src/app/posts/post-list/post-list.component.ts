@@ -18,7 +18,7 @@ export class PostListComponent implements OnInit, OnDestroy {
   isLoading = false;
   paginatorSelectionOptions = [1, 2, 5, 10, 25, 50, 100];
 
-  itemsPerPage = 1;
+  itemsPerPage = 10;
   totalItems = 0;
   currentPage = 1;
   userIsAuthenticated = false;
