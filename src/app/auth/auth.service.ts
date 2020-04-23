@@ -6,6 +6,7 @@ import { Router } from "@angular/router";
  
 @Injectable({providedIn: "root"})
 export class AuthService {
+     
     private isAuthenticated = false;
     private token: string;
     private tokenTimer: any;
