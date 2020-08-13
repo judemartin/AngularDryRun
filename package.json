@@ -34,7 +34,7 @@
     "npm-check-updates": "^4.1.1",
     "parsejson": "0.0.3",
     "rxjs": "^6.5.4",
-    "serialize-javascript": "^3.0.0",
+    "serialize-javascript": "^3.1.0",
     "ws": "^7.2.3",
     "zone.js": "^0.10.3"
   },
