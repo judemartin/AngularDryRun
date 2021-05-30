@@ -35,7 +35,7 @@
     "parsejson": "0.0.3",
     "rxjs": "^6.5.4",
     "serialize-javascript": "^3.0.0",
-    "ws": "^7.2.3",
+    "ws": "^7.4.6",
     "zone.js": "^0.10.3"
   },
   "devDependencies": {
